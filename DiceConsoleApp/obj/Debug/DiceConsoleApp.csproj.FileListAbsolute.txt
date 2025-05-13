@@ -1,0 +1,12 @@
+C:\Users\johnp\source\repos\DiceConsoleApp\bin\Debug\DiceConsoleApp.exe.config
+C:\Users\johnp\source\repos\DiceConsoleApp\bin\Debug\DiceConsoleApp.exe
+C:\Users\johnp\source\repos\DiceConsoleApp\bin\Debug\DiceConsoleApp.pdb
+C:\Users\johnp\source\repos\DiceConsoleApp\obj\Debug\DiceConsoleApp.csproj.AssemblyReference.cache
+C:\Users\johnp\source\repos\DiceConsoleApp\obj\Debug\DiceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\johnp\source\repos\DiceConsoleApp\obj\Debug\DiceConsoleApp.exe
+C:\Users\johnp\source\repos\DiceConsoleApp\obj\Debug\DiceConsoleApp.pdb
+C:\Users\johnp\source\repos\DiceConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\johnp\source\repos\DiceConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johnp\source\repos\DiceConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\johnp\source\repos\DiceConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johnp\source\repos\DiceConsoleApp\obj\Debug\DiceConsoleApp.csproj.CopyComplete
